@@ -135,9 +135,6 @@ npm start
 * **Sadman Biazid Arnob** – 011 231 0405
 * **Mohammad Naeem Mollah** – 011 231 0202
 
-*Developed as part of CSE 3522 - Database Management System Lab*
-*United International University*
-*Date of Submission: 28 June 2025*
 
 ---
 
